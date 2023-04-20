@@ -1,0 +1,32 @@
+C:\Users\Student\source\repos\StupidCar\StupidCar\bin\Debug\StupidCar.exe.config
+C:\Users\Student\source\repos\StupidCar\StupidCar\bin\Debug\StupidCar.exe
+C:\Users\Student\source\repos\StupidCar\StupidCar\bin\Debug\StupidCar.pdb
+C:\Users\Student\source\repos\StupidCar\StupidCar\obj\Debug\StupidCar.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\StupidCar\StupidCar\obj\Debug\StupidCar.Form1.resources
+C:\Users\Student\source\repos\StupidCar\StupidCar\obj\Debug\StupidCar.Properties.Resources.resources
+C:\Users\Student\source\repos\StupidCar\StupidCar\obj\Debug\StupidCar.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\StupidCar\StupidCar\obj\Debug\StupidCar.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\StupidCar\StupidCar\obj\Debug\StupidCar.exe
+C:\Users\Student\source\repos\StupidCar\StupidCar\obj\Debug\StupidCar.pdb
+C:\Users\Student\source\repos\StupidCar\StupidCar\obj\Debug\StupidCar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\source\repos\StupidCar - Copy\StupidCar\bin\Debug\StupidCar.exe.config
+C:\Users\Student\source\repos\StupidCar - Copy\StupidCar\bin\Debug\StupidCar.exe
+C:\Users\Student\source\repos\StupidCar - Copy\StupidCar\bin\Debug\StupidCar.pdb
+C:\Users\Student\source\repos\StupidCar - Copy\StupidCar\obj\Debug\StupidCar.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\StupidCar - Copy\StupidCar\obj\Debug\StupidCar.Form1.resources
+C:\Users\Student\source\repos\StupidCar - Copy\StupidCar\obj\Debug\StupidCar.Properties.Resources.resources
+C:\Users\Student\source\repos\StupidCar - Copy\StupidCar\obj\Debug\StupidCar.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\StupidCar - Copy\StupidCar\obj\Debug\StupidCar.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\StupidCar - Copy\StupidCar\obj\Debug\StupidCar.exe
+C:\Users\Student\source\repos\StupidCar - Copy\StupidCar\obj\Debug\StupidCar.pdb
+C:\layla car\StupidCar - Copy\StupidCar\bin\Debug\StupidCar.exe.config
+C:\layla car\StupidCar - Copy\StupidCar\bin\Debug\StupidCar.exe
+C:\layla car\StupidCar - Copy\StupidCar\bin\Debug\StupidCar.pdb
+C:\layla car\StupidCar - Copy\StupidCar\obj\Debug\StupidCar.csproj.AssemblyReference.cache
+C:\layla car\StupidCar - Copy\StupidCar\obj\Debug\StupidCar.csproj.SuggestedBindingRedirects.cache
+C:\layla car\StupidCar - Copy\StupidCar\obj\Debug\StupidCar.Form1.resources
+C:\layla car\StupidCar - Copy\StupidCar\obj\Debug\StupidCar.Properties.Resources.resources
+C:\layla car\StupidCar - Copy\StupidCar\obj\Debug\StupidCar.csproj.GenerateResource.cache
+C:\layla car\StupidCar - Copy\StupidCar\obj\Debug\StupidCar.csproj.CoreCompileInputs.cache
+C:\layla car\StupidCar - Copy\StupidCar\obj\Debug\StupidCar.exe
+C:\layla car\StupidCar - Copy\StupidCar\obj\Debug\StupidCar.pdb
